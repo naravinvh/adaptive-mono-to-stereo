@@ -1,7 +1,6 @@
 # Adaptive Mono-to-Stereo Audio Processing Using Spectral Analysis
 
 แปลงเสียง Mono เป็น Stereo ด้วย Mid-Side และปรับ Gain ของ Side ตาม Spectral Flatness ของแต่ละเฟรม
-(เสียงโทนได้ Side น้อย, เสียงคล้าย noise ได้ Side มาก)
 
 | Method | วิธี |
 |---|---|
@@ -13,7 +12,7 @@
 
 ## ไฟล์
 
-- `final_project_6710503895.ipynb`
+- `final_project_6710503895.ipynb` 
 
 ## ไฟล์เสียง
 
